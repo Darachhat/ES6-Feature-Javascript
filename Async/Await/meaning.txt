@@ -1,0 +1,21 @@
+async និង await ត្រូវបានគេដាក់អោយប្រើនៅ ES2017 (ES8) 
+    ដែលរាជួយសម្រួលអោយមាន 
+    ភាពកាន់តែងាយស្រួលថែមទៀតក្នុងការ
+    fetch data ពី API ឬ សរសេរ asynchronous code 
+• រាមាន keyword ពីដែលចាំបាច់គឺ async 
+    នៅពីមុខ function និង await 
+    នៅខាងក្នុង function 
+• នៅក្នុង async function 
+    គឺយើងឈប់ប្រើប្រាស់ then() 
+    ទៀតហើយគឺប្រើប្រាស់ await 
+    សម្រាប់ ចាំយក promise 
+    ដែលបានផ្តល់អោយរា 
+    ហើយ await ដំណើរការបានតែនៅក្នុង
+    async function តែប៉ុណ្ណោះ។ 
+• await គឺជា keyword មួយសម្រាប់ប្រើបានតែនៅក្នុង 
+    async function តែប៉ុណ្ណោះ ។ 
+    await ធ្វើការ ផ្អាកដំណើរការរបស់ async function 
+    មិនអោយបញ្ចប់ភ្លាមៗ 
+    ដោយធ្វើការរងចាំការដំណើរការរបស់ 
+    promise function ចប់សិនបានរាអោយ 
+    async function ដំណើរការបន្ត ។
